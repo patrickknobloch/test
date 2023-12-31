@@ -2,5 +2,5 @@
   "name": "Test Token on SOL",
   "symbol": "TTOS",
   "description": "This is a Test",
-  "image": "/"
+  "image": "https://raw.githubusercontent.com/patrickknobloch/test/main/test.png"
 }
